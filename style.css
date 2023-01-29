@@ -1,0 +1,53 @@
+h1,h2,h3,h4,h5,h6, hr {
+    color: #00ADB5;
+}
+
+p, li {
+    color: #EEEEEE;
+}
+
+.row{
+    padding-top: 50px;
+}
+
+.tips{
+    background-color: #222831;
+    padding: 10px;
+}
+
+.bg-jumbotron{
+    background-color: #222831;
+}
+
+.jumbotron {
+    background-color: #393E46;
+}
+
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
+a:active{
+    text-decoration: none;
+}
+
+u {
+    text-decoration-color: #00ADB5;
+}
+
+th,td{
+    color: #EEEEEE;
+}
+
+.salah{
+    color: pink;
+}
+
+.benar{
+    color: lightgreen;
+}
